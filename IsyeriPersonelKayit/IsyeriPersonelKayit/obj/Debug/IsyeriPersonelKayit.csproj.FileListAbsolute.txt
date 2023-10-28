@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\bin\Debug\IsyeriPersonelKayit.exe.config
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\bin\Debug\IsyeriPersonelKayit.exe
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\bin\Debug\IsyeriPersonelKayit.pdb
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\obj\Debug\IsyeriPersonelKayit.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\obj\Debug\IsyeriPersonelKayit.Form1.resources
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\obj\Debug\IsyeriPersonelKayit.Properties.Resources.resources
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\obj\Debug\IsyeriPersonelKayit.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\obj\Debug\IsyeriPersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\obj\Debug\IsyeriPersonelKayit.exe
+C:\Users\LENOVO\Documents\GitHub\IsyeriPersonelKayit\IsyeriPersonelKayit\IsyeriPersonelKayit\obj\Debug\IsyeriPersonelKayit.pdb
